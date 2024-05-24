@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\YESEO\Desktop\C_POCU\bank_system\x64\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Account_test.constructor_initialization" Duration="1" />
+    <TestDuration Test="Account.constructor_initialization" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
